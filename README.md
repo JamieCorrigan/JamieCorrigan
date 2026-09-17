@@ -36,7 +36,7 @@
     </td>
   </tr>
 
-  <!--<tr>
+  <!--<tr> TEMPLATE
     <td colspan="2" valign="top">
       <h3>📁 Featured Repositories</h3>
       <p>Here are a couple of my projects. Click the cards to check out the code!</p>
@@ -64,12 +64,12 @@
         <tr>
           <td align="center">
             <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-              <img src="https://github-readme-stats-fast.vercel.app/api?username=JamieC1255&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+              <img src="https://github-readme-stats-fast.vercel.app/api?username=JamieCorrigan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
             </a>
           </td>
           <td align="center">
             <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-              <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JamieC1255&layout=compact&theme=tokyonight&hide_border=true&card_width=300" width="300" />
+              <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JamieCorrigan&layout=compact&theme=tokyonight&hide_border=true&card_width=300" width="300" />
             </a>
           </td>
         </tr>
